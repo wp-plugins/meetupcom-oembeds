@@ -1,7 +1,7 @@
 === Meetup.com oEmbeds - Easily embed events, groups, more!===
 Contributors: bradparbs
 Donate link: http://bradparbs.com/
-Tags: meeting, oembeds, picture, embed
+Tags: meeting, oembeds, meetup, meetup.com, events, groups, embed
 Requires at least: 3.2
 Tested up to: 3.3.2
 License: GPLv2
